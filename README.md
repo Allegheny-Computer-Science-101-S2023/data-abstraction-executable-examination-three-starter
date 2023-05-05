@@ -20,9 +20,11 @@ of the instructions in this file before starting the executable examination.
 
 ## Add Your Name Here
 
+TODO: You must delete "Add Your Name Here" and add your own name
+
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this examination."
 
-Note: You must retype the sentence here.
+TODO: You must retype the sentence here.
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
