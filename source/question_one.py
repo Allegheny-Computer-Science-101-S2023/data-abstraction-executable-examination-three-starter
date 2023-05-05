@@ -80,7 +80,7 @@ def question_one_b():
 # Implement a function to produce the requested output
 
 # Function description:
-# The function compute_square_while should:
+# The function compute_factorial_iterative_while should:
 # --> Accept as input an int value called input_number
 # --> Produce as output an int that is the input_number!
 #     where the "!" designates the factorial operation
